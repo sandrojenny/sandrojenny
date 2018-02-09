@@ -1,0 +1,36 @@
+.wpb_wrapper h1 {
+    color: #2A4152; 
+    font-size: 3em;
+    line-height: 1.2;
+    padding-bottom: 30px;
+}
+
+.wpb_wrapper p {
+    color: #1c1c1c;
+    font-size: 1.3em;
+    line-height: 1.7;
+}
+
+.wpb_wrapper ul {
+  font-weight: 300;
+  font-size: 1.3em;
+  line-height: 1.7;
+}
+
+.smile_icon_list li .icon_description h3 {
+    font-weight: 600 !important;
+}
+
+.smile_icon_list li .icon_description p {
+    font-weight: 100 !important;
+}
+
+.box {
+  height: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #1A70AF;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  color: white;
+}

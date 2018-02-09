@@ -1,0 +1,1 @@
+�m}Z<?php exit; ?>a:1:{s:7:"content";s:175:"Seit mehr als 10 Jahren beschäftige ich mich mit digitalen Business Modellen und zeige kleinen Unternehmen und Selbständigen wie sie ihr Online Business zum wachsen bringen.";}

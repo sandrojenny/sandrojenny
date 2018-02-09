@@ -1,0 +1,1 @@
+ws}Z<?php exit; ?>a:1:{s:7:"content";a:1:{s:9:"webworker";s:7:"/themes";}}

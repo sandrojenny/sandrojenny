@@ -1,0 +1,1 @@
+.m}Z<?php exit; ?>a:1:{s:7:"content";s:104:"Die Kurse sind noch im Aufbau, wir informieren dich aber gerne per Email wenn die Kurse verfügbar sind.";}
